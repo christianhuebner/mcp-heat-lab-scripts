@@ -316,7 +316,7 @@ grep MUTEX ${RECLASS_ROOT}
   git fetch origin master
   git pull
 
-echo "MUTEXXXX"${grep MUTEX ${RECLASS_ROOT}}"XXX"
+echo "MUTEXXXX"${grep MUTEX $RECLASS_ROOT}"XXX"
 
   cd ${RECLASS_ROOT}
 
